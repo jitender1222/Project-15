@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-14-red)
 
-## Project-14  [live Link](https://product-design-landing.netlify.app/)
+## Project-14  [live Link](https://myname-arthur.netlify.app/)
 
 **Name:** Jitender singh
 
